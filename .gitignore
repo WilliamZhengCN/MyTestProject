@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/FirstProject/.vs/FirstProject/v16/TestStore/0
+/FirstProject/ConsoleApp1/bin/Debug/netcoreapp3.1
+/FirstProject/.vs/FirstProject/v16
+/FirstProject/ConsoleApp1/obj
+/FirstProject/ProjectATest/bin/Debug/netcoreapp3.1
+/FirstProject/ProjectATest/obj/Debug/netcoreapp3.1
+/FirstProject/ProjectATest/obj
