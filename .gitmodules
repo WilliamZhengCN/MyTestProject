@@ -1,0 +1,3 @@
+[submodule "wiredemo"]
+	path = wiredemo
+	url = git@github.com:WilliamZhengCN/GoDemoCode.git
